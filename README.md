@@ -1,4 +1,4 @@
-# 🌙 Dark Anime World
+# 🌙 Red Ronin
 
 A sleek, dark-themed anime recommendation website built using **HTML** and **CSS** (with Flexbox and Grid).  
 It showcases curated anime suggestions across multiple genres — designed with subtle animations and a minimal aesthetic.
